@@ -79,8 +79,6 @@ Flags:
 * `logstash_node_queue_events` (counter)
 * `logstash_node_queue_size_bytes` (counter)
 * `logstash_node_queue_max_size_bytes` (counter)
-* `logstash_node_queue_max_unread_events`: queue_max_ (counter)
-* `logstash_node_queue_page_capacity_bytes`: queue_page_capacity_bytes (counter)
 * `logstash_node_up`: whether logstash node is up (1) or not (0) (gauge)
 
 ## Integration tests
